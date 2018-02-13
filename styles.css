@@ -1,0 +1,7 @@
+.backgroundimg{
+  width: 100%;
+  opacity: 0.5;
+}
+.bgcolor{
+  background: linear-gradient(blue, green, yellow, orange, red);
+}
